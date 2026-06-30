@@ -1,0 +1,10 @@
+# Секреты
+.env
+
+# Сырые и расчетные данные бизнеса
+data.xlsx
+final_dashboard.xlsx
+
+# Системные файлы ОС и Python
+__pycache__/
+run_etl.bat
